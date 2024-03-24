@@ -41,5 +41,6 @@
   <catalogs>Catalog.Справочник</catalogs>
   <catalogs>Catalog.Справочник1</catalogs>
   <documents>Document.Документ</documents>
+  <documents>Document.Документ1</documents>
   <informationRegisters>InformationRegister.РегистрСведений</informationRegisters>
 </mdclass:Configuration>
